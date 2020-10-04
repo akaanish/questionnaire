@@ -27,7 +27,7 @@ const App = () => {
 
   const fetchData = async () => {
     try {
-      const response = await axios.get('http://localhost:3000/data.json');
+      const response = await axios.get('data.json');
       setInitial({ ...initial, questions: response.data.payload })
       setIsLoading(false);
     } catch (error) {
