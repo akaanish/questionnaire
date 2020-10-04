@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/questionnaire/static/css/main.29b0924c.chunk.css",
+    "main.js": "/questionnaire/static/js/main.bb3e1525.chunk.js",
+    "main.js.map": "/questionnaire/static/js/main.bb3e1525.chunk.js.map",
+    "runtime-main.js": "/questionnaire/static/js/runtime-main.7a8d77a9.js",
+    "runtime-main.js.map": "/questionnaire/static/js/runtime-main.7a8d77a9.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/questionnaire/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6780261f.chunk.js": "/questionnaire/static/js/2.6780261f.chunk.js",
+    "static/js/2.6780261f.chunk.js.map": "/questionnaire/static/js/2.6780261f.chunk.js.map",
+    "index.html": "/questionnaire/index.html",
+    "precache-manifest.3f9888a7397982c287ab36d0f9f74a80.js": "/questionnaire/precache-manifest.3f9888a7397982c287ab36d0f9f74a80.js",
+    "service-worker.js": "/questionnaire/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/questionnaire/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.29b0924c.chunk.css.map": "/questionnaire/static/css/main.29b0924c.chunk.css.map",
+    "static/js/2.6780261f.chunk.js.LICENSE.txt": "/questionnaire/static/js/2.6780261f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a8d77a9.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6780261f.chunk.js",
+    "static/css/main.29b0924c.chunk.css",
+    "static/js/main.bb3e1525.chunk.js"
+  ]
+}
