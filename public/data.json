@@ -1,0 +1,121 @@
+{
+    "status": "success",
+    "code": 200,
+    "payload": [
+      {
+        "questionId": 101,
+        "question": "Which is Fruit ?",
+        "options": [
+          {
+            "text": "Mango",
+            "isChecked": false
+          },
+          {
+            "text": "Table",
+            "isChecked": false
+          },
+          {
+            "text": "Knife",
+            "isChecked": false
+          },
+          {
+            "text": "None Of these",
+            "isChecked": false
+          }
+        ],
+        "answer": "Mango"
+      },
+      {
+        "questionId": 102,
+        "question": "1+1 = ?",
+        "options": [
+          {
+            "text": "2",
+            "isChecked": false
+          },
+          {
+            "text": "3",
+            "isChecked": false
+          },
+          {
+            "text": "4",
+            "isChecked": false
+          },
+          {
+            "text": "None Of these",
+            "isChecked": false
+          }
+        ],
+        "answer": "2"
+      },
+      {
+        "questionId": 103,
+        "question": "4*5 = ?",
+        "options": [
+          {
+            "text": "22",
+            "isChecked": false
+          },
+          {
+            "text": "20",
+            "isChecked": false
+          },
+          {
+            "text": "21",
+            "isChecked": false
+          },
+          {
+            "text": "None Of these",
+            "isChecked": false
+          }
+        ],
+        "answer": "20"
+      },
+      {
+        "questionId": 104,
+        "question": "4/2 = ?",
+        "options": [
+          {
+            "text": "2",
+            "isChecked": false
+          },
+          {
+            "text": "1",
+            "isChecked": false
+          },
+          {
+            "text": "4",
+            "isChecked": false
+          },
+          {
+            "text": "None Of these",
+            "isChecked": false
+          }
+        ],
+        "answer": "2"
+      },
+      {
+        "questionId": 105,
+        "question": "4-5 = ?",
+        "options": [
+          {
+            "text": "-1",
+            "isChecked": false
+          },
+          {
+            "text": "4",
+            "isChecked": false
+          },
+          {
+            "text": "-2",
+            "isChecked": false
+          },
+          {
+            "text": "None Of these",
+            "isChecked": false
+          }
+        ],
+        "answer": "-1"
+      }
+    ]
+  }
